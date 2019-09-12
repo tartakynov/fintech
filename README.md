@@ -8,3 +8,6 @@ Russia-based online-payment service
 
 ## [Omise](https://www.omise.co/about)
 Thailand-base payment gateway
+
+## [Life-Pay.ru](https://life-pay.ru/)
+POS acquiring
