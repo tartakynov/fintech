@@ -11,3 +11,6 @@ Thailand-base payment gateway
 
 ## [Life-Pay.ru](https://life-pay.ru/)
 POS acquiring
+
+#A# [Tochka](https://tochka.com/)
+Online banking
